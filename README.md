@@ -17,8 +17,8 @@ data/  (https://www.andresmh.com/nyctaxitrips/)
 
 notebooks/ (NYC_Taxi_Analysis.ipynb exported from Databricks)  
 
-diagrams/ 
-<img width="625" height="251" alt="image" src="https://github.com/user-attachments/assets/f2b75bc9-b7d4-441c-9c55-86ca31e49a7c" />
+Results/ 
+<img width="250" height="150" alt="image" src="https://github.com/user-attachments/assets/f2b75bc9-b7d4-441c-9c55-86ca31e49a7c" />
 
 
 ## How to run
