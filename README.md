@@ -1,6 +1,10 @@
 # NYC_TAXI_Analysis
 # 🚖 Analyzing New York City Taxi Rides (Batch Processing)
 
+This project uses **PySpark on Databricks** to analyze the 
+**NYC Yellow Taxi dataset**. The analysis focuses on geospatial and temporal 
+patterns of taxi rides, including idle times between fares and intra- vs. inter-borough trip behavior.
+
 ## Overview
 Batch geospatial & temporal analysis of NYC Yellow Taxi rides using PySpark. Includes:
 1) Average idle time per destination borough
